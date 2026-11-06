@@ -22,7 +22,7 @@ I'm an AI engineer who builds **AI agents, voice agents and RAG systems**, and t
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **[GradVoice](https://github.com/kadry720/GradVoice)** | AI recruitment platform. Scores a CV against a job description across 8 hiring dimensions, then runs a **live AI voice screening interview** over WebRTC with transcripts and recruiter notes. Includes an Android and iOS app. I led the 4-person team. | Azure OpenAI GPT-4.1, GPT-4o Transcribe and TTS, Flair NER, Flask, Next.js, Capacitor |
+| **[GradVoice](https://github.com/kadry720/GradVoice)** | AI recruitment platform. Scores a CV against a job description across 8 hiring dimensions, then runs a **live AI voice screening interview** over WebRTC with transcripts and recruiter notes. I led the 4-person team; a teammate packaged the [Android and iOS app](https://github.com/Youkaku-1/GradVoiceMobile). | Azure OpenAI GPT-4.1, GPT-4o Transcribe and TTS, Flair NER, Flask, Next.js, Capacitor |
 | **[Fraud Detection MLOps](https://github.com/kadry720/fraud-detection-mlops)** | End-to-end MLOps pipeline on IEEE-CIS fraud data: data-validation gate in CI, 8 models tracked in MLflow, FastAPI serving, Prometheus/Grafana dashboards and drift monitoring. **ROC-AUC 0.91, F1 0.68** on 20,000 held-out transactions. | MLflow, DVC, Docker, FastAPI, GitHub Actions, Evidently |
 
 ## What I work with
