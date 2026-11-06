@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Kadry Mostafa, AI Engineer: AI agents, voice AI, RAG and embedded systems">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#12213A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22D3A6"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1E3354" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)" opacity="0.55"/>
+  <g fill="none" stroke="#2B4A75" stroke-width="2" stroke-linecap="round">
+    <path d="M860 70h90l30 30h110"/>
+    <path d="M820 150h70l40-40h70l30 30h90"/>
+    <path d="M880 230h60l30-30h80l20 20h60"/>
+    <path d="M950 70v-30M1090 100v70M1000 110v90"/>
+  </g>
+  <g fill="#0B1220" stroke="url(#accent)" stroke-width="2.5">
+    <circle cx="860" cy="70" r="6"/><circle cx="1090" cy="100" r="6"/>
+    <circle cx="820" cy="150" r="6"/><circle cx="1120" cy="140" r="6"/>
+    <circle cx="880" cy="230" r="6"/><circle cx="1110" cy="220" r="6"/>
+    <circle cx="1000" cy="200" r="6"/><circle cx="950" cy="40" r="6"/>
+  </g>
+  <rect x="985" y="128" width="62" height="44" rx="6" fill="#0F1C31" stroke="url(#accent)" stroke-width="2.5"/>
+  <text x="1016" y="156" text-anchor="middle" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#7DD3FC">AI</text>
+  <rect x="72" y="78" width="56" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="72" y="140" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#F1F5F9">Kadry Mostafa</text>
+  <text x="72" y="184" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" fill="#93C5FD">AI Engineer · AI Agents · Voice AI · RAG · Embedded Systems</text>
+  <text x="72" y="226" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#7C8BA1">Giza, Egypt  ·  AI Engineer @ BEDO  ·  CS (AI &amp; Data Science), ESLSCA University</text>
+</svg>
